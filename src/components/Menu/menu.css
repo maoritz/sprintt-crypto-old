@@ -4,11 +4,43 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
   background-color: #2a283d;
   width: 100%;
 }
 
 .logo-image-mobile {
   width: 11rem;
-  margin: 3rem 0 9rem 0;
+  margin-top: 3rem;
+}
+
+.market-status-box {
+  display: flex;
+  flex-direction: column;
+}
+
+.market-status-box {
+  font-size: 1.7rem;
+  color: #f9f9f9;
+  font-weight: 300;
+  margin-top: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+.arrowAndNumber {
+  display: flex;
+  justify-content: center;
+  margin: 0.3rem;
+}
+
+.arrowAndNumber img {
+  margin-right: 0.5rem;
+}
+
+.red {
+  color: #db4848;
+}
+
+.green {
+  color: #59bb6e;
 }
