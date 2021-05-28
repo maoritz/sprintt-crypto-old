@@ -1,0 +1,14 @@
+/* #2A283D */
+
+.main-menu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2a283d;
+  width: 100%;
+}
+
+.logo-image-mobile {
+  width: 11rem;
+  margin: 3rem 0 9rem 0;
+}

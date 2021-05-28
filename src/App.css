@@ -2,13 +2,3 @@
   background-color: #1d1c28;
   height: 100vh;
 }
-
-.mobile-app {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.logo-image-mobile {
-  width: 10rem;
-  margin-top: 4rem;
-}
